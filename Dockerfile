@@ -1,1 +1,1 @@
-FROM redis:6-buster
+FROM apache/airflow:2.2.1
