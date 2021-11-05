@@ -1,1 +1,1 @@
-FROM apache/airflow:2.1.4
+FROM bitnami/postgresql:11.12.0-debian-10-r44
